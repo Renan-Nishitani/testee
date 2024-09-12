@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\views\\home\\cadastrocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\home\\cadastrocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|f:\\3a-ds-etim\\renan clayton\\projectcity\\projetocity\\projetocity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D4E9CF-97E9-4484-A529-4700529E4F78}|ProjetoCity\\ProjetoCity.csproj|solutionrelative:projetocity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T10:20:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PainelCliente.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\PainelCliente.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:03:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastroCliente.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\CadastroCliente.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\CadastroCliente.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\CadastroCliente.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\CadastroCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:01:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoCity\\Repository\\ClienteRepository.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "ProjetoCity\\Repository\\ClienteRepository.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:57:46.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Repository\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoCity\\Repository\\IClienteRepository.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Repository\\IClienteRepository.cs",
+              "RelativeToolTip": "ProjetoCity\\Repository\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:55:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoCity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:23:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:19:52.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCity\\Views\\Home\\Login.cshtml",
+              "ToolTip": "F:\\3A-DS-ETIM\\Renan Clayton\\projectcity\\ProjetoCity\\ProjetoCity\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ProjetoCity\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:15:56.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
